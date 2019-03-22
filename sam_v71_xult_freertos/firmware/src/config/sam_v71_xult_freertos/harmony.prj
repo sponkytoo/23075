@@ -1419,8 +1419,8 @@
           <Name dnOrder="1">configuration.h</Name>
           <LogicalPath dnOrder="2">config/sam_v71_xult_freertos/</LogicalPath>
           <PhysicalPath dnOrder="3">/</PhysicalPath>
-          <GeneratedChecksum dnOrder="4">143FB1A8172E5D1AC2F1DB25202F9EBA</GeneratedChecksum>
-          <UserChecksum dnOrder="5">143FB1A8172E5D1AC2F1DB25202F9EBA</UserChecksum>
+          <GeneratedChecksum dnOrder="4">DF38814F986B1025DA27DC03270E06F7</GeneratedChecksum>
+          <UserChecksum dnOrder="5">DF38814F986B1025DA27DC03270E06F7</UserChecksum>
         </File>
         <File dnOrder="177">
           <Type dnOrder="0">HEADER</Type>
